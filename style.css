@@ -1,5 +1,8 @@
 /* Stylesheet from salesforce-b2c-experience-builder-stylesheet repository */
 
-
+/* Test, can we affect the page by only updating this file ? */
+header.lwc-76t23tn52sc.desktop {
+  background-color: rgba(255,255,255,0.5);
+}
 
 /* End of Stylesheet from salesforce-b2c-experience-builder-stylesheet repository */
