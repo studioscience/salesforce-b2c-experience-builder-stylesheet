@@ -5,4 +5,11 @@ commerce-layout-header.lwc-76t23tn52sc-host header.lwc-76t23tn52sc.desktop {
   background-color: rgba(255,255,255,0);
 }
 
+.lwc-2e9p45m2o16.slds-grid.height-full.main-content-container a.lwc-68jnud16dda.slds-button.slds-button_outline-brand.dxp-button-large {
+    border-radius: 0;
+    color: white;
+    border-color: white;
+    font-weight: 500;
+} 
+
 /* End of Stylesheet from salesforce-b2c-experience-builder-stylesheet repository */
