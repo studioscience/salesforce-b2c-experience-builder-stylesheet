@@ -14,9 +14,17 @@ commerce-layout-header.lwc-76t23tn52sc-host header.lwc-76t23tn52sc.desktop {
 }
 /* Home page profile */
 .profile-home-guest {
-  --dxp-s-button-color-active: white;
   --dxp-s-link-text-color: white;
+  --dxp-s-link-text-color-hover: white;
+  
   --dxp-s-dropdown-text-color: white;
+
+  --dxp-s-button-color: white;
+  --dxp-s-button-color-active: white;
+  --dxp-s-button-color-hover: white;
+
+  --slds-c-button-color-border: white;
+  --slds-c-icon-color-foreground-default: white;
 }
 
 /* End of Stylesheet from salesforce-b2c-experience-builder-stylesheet repository */
