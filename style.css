@@ -27,4 +27,12 @@ commerce-layout-header.lwc-76t23tn52sc-host header.lwc-76t23tn52sc.desktop {
   --slds-c-icon-color-foreground-default: white;
 }
 
+.home-main-banner .lwc-68jnud16dda.slds-button.slds-button_brand {
+    border-radius: 0;
+    background: transparent;
+    border: 2px solid #ffffff;
+    padding: 16px 32px;
+    line-height: 1;
+}
+
 /* End of Stylesheet from salesforce-b2c-experience-builder-stylesheet repository */
