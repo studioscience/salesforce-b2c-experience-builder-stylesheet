@@ -35,4 +35,22 @@ commerce-layout-header.lwc-76t23tn52sc-host header.lwc-76t23tn52sc.desktop {
     line-height: 1;
 }
 
+.home-collectionLeft .lwc-68jnud16dda.slds-button.slds-button_brand {
+  border-radius: 0;
+  padding: 16px 40px;
+  line-height: 1;
+}
+
+.home-collectionLeft h2.lwc-4rt99a8doqk.dxp-text-heading-large.slds-p-vertical_none.slds-p-horizontal_none, .home-collectionRight h2.lwc-4rt99a8doqk.dxp-text-heading-large.slds-p-vertical_none.slds-p-horizontal_none {
+  max-width: 300px;
+}
+
+.home-collectionRight .lwc-68jnud16dda.slds-button.slds-button_brand {
+  border-radius: 0;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  padding: 16px 40px;
+  line-height: 1;
+}
+
 /* End of Stylesheet from salesforce-b2c-experience-builder-stylesheet repository */
