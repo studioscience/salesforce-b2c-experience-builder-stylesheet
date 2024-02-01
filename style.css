@@ -11,6 +11,12 @@ commerce-layout-header.lwc-76t23tn52sc-host header.lwc-76t23tn52sc.desktop {
     border-color: #ffffff;
     font-weight: 500;
     border: 2px solid #ffffff;
-} 
+}
+/* Home page profile */
+.profile-home-guest {
+  --dxp-s-button-color-active: white;
+  --dxp-s-link-text-color: white;
+  --dxp-s-dropdown-text-color: white;
+}
 
 /* End of Stylesheet from salesforce-b2c-experience-builder-stylesheet repository */
