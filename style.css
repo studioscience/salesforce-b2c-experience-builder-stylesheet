@@ -59,4 +59,18 @@ commerce_builder-layout-header.home-customHeader commerce-layout-header.lwc-76t2
   line-height: 1;
 }
 
+/* Modal styles */
+lightning-overlay-container .slds-modal .slds-modal__close .slds-button.slds-button_icon-inverse, .slds-modal .slds-modal__close.slds-button.slds-button_icon-inverse {
+  color: #ffffff;
+}
+
+lightning-overlay-container .slds-modal__header {
+  background-color: #ffffff;
+}
+
+lightnight-overlay-container .slds-modal__content {
+  background-color: #ffffff;
+}
+
+
 /* End of Stylesheet from salesforce-b2c-experience-builder-stylesheet repository */
