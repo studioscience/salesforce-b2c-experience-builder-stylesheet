@@ -43,6 +43,7 @@ commerce_builder-layout-header.home-customHeader commerce-layout-header.lwc-76t2
 .home-collectionLeft .lwc-68jnud16dda.slds-button.slds-button_brand {
   border-radius: 0;
   padding: 16px 40px;
+  border: 2px solid #000000;
   line-height: 1;
 }
 
