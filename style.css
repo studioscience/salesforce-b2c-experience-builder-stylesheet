@@ -5,7 +5,7 @@
   background-color: rgba(255,255,255,0.75);
 }
 
-/* Only do this on the home page
+/* Only do this on the home page */
 .home-customHeader commerce-layout-header header {
   background-color: rgba(255,255,255,0.0);
 }
