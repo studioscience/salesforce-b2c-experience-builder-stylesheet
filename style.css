@@ -1,7 +1,7 @@
 /* Stylesheet from salesforce-b2c-experience-builder-stylesheet repository */
 
-/* Test, can we affect the page by only updating this file ? */
-commerce-layout-header.lwc-76t23tn52sc-host header.lwc-76t23tn52sc.desktop {
+/* Only do this on the non-home page headers */
+.standard-header commerce-layout-header.lwc-76t23tn52sc-host header.lwc-76t23tn52sc.desktop {
   background-color: rgba(255,255,255,0.75);
 }
 
