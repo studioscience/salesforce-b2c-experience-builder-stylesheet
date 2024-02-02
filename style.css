@@ -48,7 +48,7 @@ commerce_builder-layout-header.home-customHeader commerce-layout-header.lwc-76t2
 }
 
 .home-collectionLeft h2.lwc-4rt99a8doqk.dxp-text-heading-large.slds-p-vertical_none.slds-p-horizontal_none, .home-collectionRight h2.lwc-4rt99a8doqk.dxp-text-heading-large.slds-p-vertical_none.slds-p-horizontal_none {
-  max-width: 300px;
+  /*max-width: 300px;*/
 }
 
 .home-collectionRight .lwc-68jnud16dda.slds-button.slds-button_outline-brand {
