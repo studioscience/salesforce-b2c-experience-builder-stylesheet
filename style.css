@@ -80,7 +80,7 @@ dxp_base-image.component-wrapper-spacer.lwc-692s6j89ul6-host {
   margin-bottom: 0;
 }
 
-.slds-theme_error.lwc-7jjmc3b49ns .slds-media__body.lwc-7jjmc3b49ns h2.lwc-7jjmc3b49ns {
+.slds-theme_error.lwc-7jjmc3b49ns .slds-media__body.lwc-7jjmc3b49ns h2.lwc-7jjmc3b49ns, .slds-theme_error.lwc-7jjmc3b49ns .slds-media__body.lwc-7jjmc3b49ns p.lwc-7jjmc3b49ns {
   color: #ffffff !important;
   text-align: center;
 }
