@@ -72,6 +72,12 @@ lightning-overlay-container .slds-modal__content {
   background-color: #ffffff;
 }
 
-li
+.comm-login-form__login-button[lwc-2gnjpni64lj] {
+  color: #000000;
+}
+
+dxp_base-image.component-wrapper-spacer.lwc-692s6j89ul6-host {
+  margin-bottom: 0;
+}
 
 /* End of Stylesheet from salesforce-b2c-experience-builder-stylesheet repository */
