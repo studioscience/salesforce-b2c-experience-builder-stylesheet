@@ -80,4 +80,9 @@ dxp_base-image.component-wrapper-spacer.lwc-692s6j89ul6-host {
   margin-bottom: 0;
 }
 
+.slds-theme_error.lwc-7jjmc3b49ns .slds-media__body.lwc-7jjmc3b49ns h2.lwc-7jjmc3b49ns {
+  color: #ffffff !important;
+  text-align: center;
+}
+
 /* End of Stylesheet from salesforce-b2c-experience-builder-stylesheet repository */
