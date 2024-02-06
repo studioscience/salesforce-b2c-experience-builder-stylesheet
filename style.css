@@ -49,10 +49,6 @@ commerce_builder-layout-header.home-customHeader commerce-layout-header.lwc-76t2
     font-weight: 600;
 }
 
-.home-main-banner .lwc-2e9p45m2o16.slds-m-top_small.lwc-4jvuae7j6si-host {
-    margin-top: 2rem;
-}
-
 .home-collectionLeft .lwc-68jnud16dda.slds-button.slds-button_brand {
   border-radius: 0;
   padding: 12px 40px;
@@ -67,6 +63,10 @@ commerce_builder-layout-header.home-customHeader commerce-layout-header.lwc-76t2
 
 .home-collectionLeft .lwc-2e9p45m2o16.main-content.slds-p-around_large {
   max-width: 360px;
+}
+
+.home-collectionLeft .lwc-4jvuae7j6si,cta-buttons.slds-grid {
+  width: 80%;
 }
 
 .home-collectionRight .lwc-68jnud16dda.slds-button.slds-button_outline-brand {
