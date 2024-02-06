@@ -65,6 +65,10 @@ commerce_builder-layout-header.home-customHeader commerce-layout-header.lwc-76t2
   /*max-width: 300px;*/
 }
 
+.home-collectionLeft .lwc-2e9p45m2o16.main-content.slds-p-around_large {
+  max-width: 360px;
+}
+
 .home-collectionRight .lwc-68jnud16dda.slds-button.slds-button_outline-brand {
   border-radius: 0;
   color: #ffffff;
