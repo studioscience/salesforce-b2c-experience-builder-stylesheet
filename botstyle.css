@@ -13,3 +13,7 @@
 .embedded-messaging-system-event-participantchanged-text {
     display: none;
 }   
+
+div.embedded-messaging-chat-message[lwc-3cjfrt9r4ka] {
+    max-width: 80%;
+}
