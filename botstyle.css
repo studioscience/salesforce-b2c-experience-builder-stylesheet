@@ -6,3 +6,7 @@
 .slds-chat-message_faux-avatar {
     padding-left: 0;
 }
+
+.embedded-messaging-system-event-participantchanged-text {
+    display: none;
+}   
