@@ -1,0 +1,8 @@
+/* Remove avatar for the bot on every line */
+.slds-chat-avatar.embedded-messaging-chat-message-agent-avatar {
+    display: none;
+}
+/* remove padding that was reserved for the bot avatar */
+.slds-chat-message_faux-avatar {
+    padding-left: 0;
+}
