@@ -14,6 +14,6 @@
     display: none;
 }   
 
-div.embedded-messaging-chat-message[lwc-3cjfrt9r4ka] {
-    max-width: 80%;
+div.embedded-messaging-chat-message {
+    max-width: 80%!important;
 }
