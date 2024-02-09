@@ -119,4 +119,8 @@ lightning-vertical-navigation-item .slds-nav-vertical__action:hover {
   box-shadow: inset 4px 0 0 #000000 !important;
 }
 
+lightning-formatted-number.strikethrough-price.price-label {
+  color: #707275 !important;
+}
+
 /* End of Stylesheet from salesforce-b2c-experience-builder-stylesheet repository */
