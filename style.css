@@ -143,4 +143,13 @@ lightning-formatted-number.strikethrough-price.price-label {
   margin-bottom: 0 !important;
 }
 
+a.lwc-68jnud16dda.slds-button.slds-button_outline-brand.slds-button_stretch {
+    border: 2px solid #000000 !important;
+    font-weight: 600 !important;
+}
+
+[data-component-id="textBlock-39ad"] {
+  color: #626262 !important;
+}
+
 /* End of Stylesheet from salesforce-b2c-experience-builder-stylesheet repository */
