@@ -123,4 +123,8 @@ lightning-formatted-number.strikethrough-price.price-label {
   color: #707275 !important;
 }
 
+.lwc-48aostf02bd-host dxp_base-text-block.component-wrapper-spacer.lwc-4rt99a8doqk-host:first-child {
+  margin-bottom: 0;
+}
+
 /* End of Stylesheet from salesforce-b2c-experience-builder-stylesheet repository */
