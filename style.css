@@ -160,4 +160,13 @@ a.lwc-68jnud16dda.slds-button.slds-button_outline-brand.slds-button_stretch {
   padding-left: 40px;
 }
 
+[data-component-id="sldsFlexibleLayout-94bf"] .lwc-7fkokvogn01.quantity-list-action commerce-action-button.lwc-5igvpfimtj, [data-component-id="sldsFlexibleLayout-94bf"] .lwc-7fkokvogn01.quantity-list-action span.lwc-5fghn3l4ske.slds-grid, [data-component-id="sldsFlexibleLayout-94bf"] .lwc-7fkokvogn01.quantity-list-action commerce-action-button.lwc-7fkokvogn01.slds-m-vertical_small.lwc-76nnmqsstjk-host {
+  height: 3.25rem;
+}
+
+[data-component-id="sldsFlexibleLayout-94bf"] commerce-action-button.lwc-7fkokvogn01.slds-m-vertical_small.lwc-76nnmqsstjk-host, [data-component-id="sldsFlexibleLayout-94bf"] commerce_product_details-add-quantity.lwc-7fkokvogn01.slds-m-vertical_small.lwc-5igvpfimtj-host {
+  margin-top: 25px;
+}
+
+
 /* End of Stylesheet from salesforce-b2c-experience-builder-stylesheet repository */
