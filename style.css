@@ -104,4 +104,19 @@ dxp_base-image.component-wrapper-spacer.lwc-692s6j89ul6-host {
   text-align: center;
 }
 
+lightning-vertical-navigation-item.slds-p-vertical_small.slds-nav-vertical__item.slds-is-active:before {
+  background-color: #F7F9FA;
+}
+
+lightning-vertical-navigation-item .slds-nav-vertical__action {
+  color: #000000;
+}
+lightning-vertical-navigation-item.slds-p-vertical_small.slds-nav-vertical__item.slds-is-active lightning-vertical-navigation-item .slds-nav-vertical__action {
+  box-shadow: inset 4px 0 0 #000000;
+}
+
+lightning-vertical-navigation-item .slds-nav-vertical__action:hover {
+  box-shadow: inset 4px 0 0 #000000;
+}
+
 /* End of Stylesheet from salesforce-b2c-experience-builder-stylesheet repository */
