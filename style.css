@@ -109,14 +109,14 @@ lightning-vertical-navigation-item.slds-p-vertical_small.slds-nav-vertical__item
 }
 
 lightning-vertical-navigation-item .slds-nav-vertical__action {
-  color: #000000;
+  color: #000000 !important;
 }
 lightning-vertical-navigation-item.slds-p-vertical_small.slds-nav-vertical__item.slds-is-active lightning-vertical-navigation-item .slds-nav-vertical__action {
-  box-shadow: inset 4px 0 0 #000000;
+  box-shadow: inset 4px 0 0 #000000 !important;
 }
 
 lightning-vertical-navigation-item .slds-nav-vertical__action:hover {
-  box-shadow: inset 4px 0 0 #000000;
+  box-shadow: inset 4px 0 0 #000000 !important;
 }
 
 /* End of Stylesheet from salesforce-b2c-experience-builder-stylesheet repository */
