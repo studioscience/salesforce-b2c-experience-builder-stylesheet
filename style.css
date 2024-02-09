@@ -152,4 +152,12 @@ a.lwc-68jnud16dda.slds-button.slds-button_outline-brand.slds-button_stretch {
   color: #626262 !important;
 }
 
+[data-component-id="threekitplayer-dba8"] {
+    border: 1px solid #E3E7ED;
+}
+
+community_layout-column-spacer.lwc-hha6pm515p-host {
+  padding-left: 8px;
+}
+
 /* End of Stylesheet from salesforce-b2c-experience-builder-stylesheet repository */
