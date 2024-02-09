@@ -131,4 +131,16 @@ lightning-formatted-number.strikethrough-price.price-label {
   border: 1px solid #000000;
 }
 
+.lwc-48aostf02bd.column-content label[lwc-2ar7aenubaj] {
+  padding-bottom: 0 !important;
+  padding-top: 0 !important;
+  font-size: 12px !important;
+}
+
+.lwc-48aostf02bd.column-content select[lwc-2ar7aenubaj] {
+  padding-left: 4px !important;
+  padding-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
 /* End of Stylesheet from salesforce-b2c-experience-builder-stylesheet repository */
