@@ -185,4 +185,9 @@ a.lwc-68jnud16dda.slds-button.slds-button_outline-brand.slds-button_stretch {
   margin-right: 0;
 }
 
+.header-banner .main-content .container .cta-buttons a.68jnud16dda.slds-button.slds-button_outline-brand {
+    color: white;
+    border-color: white;
+}
+
 /* End of Stylesheet from salesforce-b2c-experience-builder-stylesheet repository */
