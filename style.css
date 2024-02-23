@@ -190,4 +190,13 @@ a.lwc-68jnud16dda.slds-button.slds-button_outline-brand.slds-button_stretch {
     border-color: white;
 }
 
+/* Product Set Page */
+
+/* Button for Add All */
+
+commerce_product_details-add-to-cart-button button.lwc-s5t0mkqdga.slds-button.slds-button_brand,
+commerce_product_details-add-to-cart-button button.lwc-s5t0mkqdga.slds-button.slds-button_brand:hover {
+  background-color: rgb(28,28,28);
+}
+
 /* End of Stylesheet from salesforce-b2c-experience-builder-stylesheet repository */
