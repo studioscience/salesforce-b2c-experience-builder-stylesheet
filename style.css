@@ -202,13 +202,18 @@ commerce_product_details-add-to-cart-button button.lwc-s5t0mkqdga.slds-button.sl
 commerce_product_details-product-set div.lwc-705ga9r2kec.product-set__items {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 40px;
+  margin-left: 40px;
 }
 commerce_product_details-product-set div.lwc-705ga9r2kec.product-set__items commerce_product_details-product-set-item-container {
   display: flex;
-  width: calc(33.3333% - 20px);
-  width: 400px;
-  justify-content: center;
+  width: 450px;
+  justify-content: left;
   align-items: center;
 }
+commerce_product_details-product-set div.lwc-705ga9r2kec.product-set__items commerce_product_details-product-set-item-container .product-set-item__image img {
+  width: 100px;
+  height: 100px;
+}
+
 /* End of Stylesheet from salesforce-b2c-experience-builder-stylesheet repository */
