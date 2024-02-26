@@ -207,6 +207,7 @@ commerce_product_details-product-set div.lwc-705ga9r2kec.product-set__items {
 commerce_product_details-product-set div.lwc-705ga9r2kec.product-set__items commerce_product_details-product-set-item-container {
   display: flex;
   width: calc(33.3333% - 20px);
+  width: 400px;
   justify-content: center;
   align-items: center;
 }
