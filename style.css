@@ -198,7 +198,9 @@ commerce_product_details-add-to-cart-button button.lwc-s5t0mkqdga.slds-button.sl
 commerce_product_details-add-to-cart-button button.lwc-s5t0mkqdga.slds-button.slds-button_brand:hover {
   background-color: rgb(28,28,28);
 }
-
+.product-set__header.lwc-705ga9r2kec {
+  border: none;
+}  
 commerce_product_details-product-set div.lwc-705ga9r2kec.product-set__items {
   display: none;
 }
