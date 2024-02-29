@@ -77,7 +77,15 @@ commerce_builder-layout-header.home-customHeader commerce-layout-header.lwc-76t2
   line-height: 1;
   font-weight: 600;
 }
-
+/* Button for Premium Buyer Banner */
+.premium-Buyer-Banner .lwc-68jnud16dda.slds-button.slds-button_outline-brand {
+  border-radius: 0;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  padding: 12px 40px;
+  line-height: 1;
+  font-weight: 600;
+}
 /* Modal styles */
 lightning-overlay-container .slds-modal .slds-modal__close .slds-button.slds-button_icon-inverse, .slds-modal .slds-modal__close.slds-button.slds-button_icon-inverse {
   color: #ffffff;
