@@ -228,4 +228,30 @@ commerce_product_details-product-set div.lwc-705ga9r2kec.product-set__items comm
     z-index: 1; /* Ensures the overlay is above the video but below any other content you might want to add */
 }
 
+
+/* Carousel hacks */
+
+.tkplayer {
+    height: 480px;
+    width: auto;
+}
+.tkplayer .threekit {
+    width: 480px;
+}
+
+.slds-carousel__content {
+    display: none;
+}
+
+.slds-carousel__image > img {
+    height: 480px;
+    width: auto;
+}
+
+.slds-carousel__indicator-action {
+    width: 100px;
+    height: 100px;
+    border: none;
+    border-radius: none;
+}
 /* End of Stylesheet from salesforce-b2c-experience-builder-stylesheet repository */
