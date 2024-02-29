@@ -222,8 +222,8 @@ commerce_product_details-product-set div.lwc-705ga9r2kec.product-set__items comm
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
-    height: 100%;
+    width: 1925px;
+    height: 800px;
     background: rgba(0, 0, 0, 0.5); /* Adjust the alpha (0.5) for darker/lighter */
     z-index: 1; /* Ensures the overlay is above the video but below any other content you might want to add */
 }
