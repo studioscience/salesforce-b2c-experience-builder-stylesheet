@@ -278,6 +278,9 @@ commerce_product_details-product-set div.lwc-705ga9r2kec.product-set__items comm
     height: 480px;
     width: auto;
 }
+.slds-carousel__indicators {
+  align-self: auto;
+}
 
 .slds-carousel__indicator-action {
     width: 100px;
