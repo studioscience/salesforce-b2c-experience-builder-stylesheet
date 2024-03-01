@@ -289,24 +289,30 @@ commerce_product_details-product-set div.lwc-705ga9r2kec.product-set__items comm
     border-radius: none;
 }
 
-#pagination-item-0-35 {
+ul.slds-carousel__indicators li:nth-child(1) a {
     background-image: url(/sfsites/c/cms/delivery/media/MCD5LQP557GBHDZBVFYY55BNPCJM);
     background-size: cover;
+    border: none;
     border-radius: 0;
 }
-#pagination-item-1-35 {
+ul.slds-carousel__indicators li:nth-child(2) a {
+
     background-image: url(/sfsites/c/cms/delivery/media/MCAEHACGAVWNFUFGVQI6FZTSRHIA);
     background-size: cover;
+    border: none;
     border-radius: 0;
 }
-#pagination-item-2-35 {
+ul.slds-carousel__indicators li:nth-child(3) a {
+
     background-image: url(/sfsites/c/cms/delivery/media/MCZ3USYMTFKJAR7D3WWTNQOACG74);
     background-size: cover;
+    border: none;
     border-radius: 0;
 }
-#pagination-item-3-35 {
+ul.slds-carousel__indicators li:nth-child(4) a {
     background-image: url(/sfsites/c/cms/delivery/media/MCKAC2SWAC6JD5FAJKWZTRJJPYWY);
     background-size: cover;
+    border: none;
     border-radius: 0;
 }
 
