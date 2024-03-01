@@ -285,4 +285,22 @@ commerce_product_details-product-set div.lwc-705ga9r2kec.product-set__items comm
     border: none;
     border-radius: none;
 }
+
+#pagination-item-0-33 {
+    background-image: url(/sfsites/c/cms/delivery/media/MCD5LQP557GBHDZBVFYY55BNPCJM);
+    background-size: cover;
+}
+#pagination-item-1-33 {
+    background-image: url(/sfsites/c/cms/delivery/media/MCAEHACGAVWNFUFGVQI6FZTSRHIA);
+    background-size: cover;
+}
+#pagination-item-2-33 {
+    background-image: url(/sfsites/c/cms/delivery/media/MCZ3USYMTFKJAR7D3WWTNQOACG74);
+    background-size: cover;
+}
+#pagination-item-3-33 {
+    background-image: url(/sfsites/c/cms/delivery/media/MCKAC2SWAC6JD5FAJKWZTRJJPYWY);
+    background-size: cover;
+}
+
 /* End of Stylesheet from salesforce-b2c-experience-builder-stylesheet repository */
