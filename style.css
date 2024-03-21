@@ -316,5 +316,11 @@ ul.slds-carousel__indicators li:nth-child(4) a {
     border-radius: 0;
 }
 
+/* Footer image width */
+commerce-layout-footer footer img.lwc-692s6j89ul6 {
+  width: 2000px;
+  max-width: 100%;
+}
+
 
 /* End of Stylesheet from salesforce-b2c-experience-builder-stylesheet repository */
